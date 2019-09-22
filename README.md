@@ -7,7 +7,7 @@ Objective was to perform sentiment analysis on Big data. For this task we collec
 The resulting words with highest word counts and co-occurence pairs were visualized using word cloud in Tableau and published. 
 
 ### Tools used
-Python 3, Docker, Cloudera Quickstart Docker Image, Tableau, Article Search API, Common Crawl index AP
+Python 3, Docker, Cloudera Quickstart Docker Image, Tableau, Article Search API, Common Crawl index API
 
 ### Libraries 
 NLTK, rtweet, Beautiful Soup, warcio
